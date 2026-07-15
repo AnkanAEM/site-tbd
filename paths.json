@@ -1,0 +1,8 @@
+{
+  "mappings": [
+    "/content/site-tbd/:/"
+  ],
+  "includes": [
+    "/content/site-tbd/"
+  ]
+}
