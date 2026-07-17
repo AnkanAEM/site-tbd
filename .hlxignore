@@ -1,4 +1,5 @@
 .*
+!.well-known
 *.md
 karma.config.js
 LICENSE
