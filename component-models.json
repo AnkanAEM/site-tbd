@@ -180,6 +180,32 @@
     ]
   },
   {
+    "id": "dealers",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "heading",
+        "value": "",
+        "label": "Heading",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "dealersApi",
+        "value": "https://www.ankanghosh.in/api/static/dealers",
+        "label": "Dealers API Endpoint",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "inventoryApi",
+        "value": "https://www.ankanghosh.in/api/static/inventory",
+        "label": "Inventory API Endpoint",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "fragment",
     "fields": [
       {
